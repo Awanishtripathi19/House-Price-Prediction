@@ -4,6 +4,7 @@ Overview
 The Boston House Price Dataset, also known as the "Boston Housing Dataset," is a widely-used dataset in the field of machine learning. It contains information about various factors that may influence the median value of owner-occupied homes in Boston neighborhoods. This dataset is often used for regression analysis and predictive modeling.
 
 The dataset consists of 506 data points, with 13 features each:
+
 1 CRIM: Per capita crime rate by town.
 
 2 ZN: Proportion of residential land zoned for large lots.
